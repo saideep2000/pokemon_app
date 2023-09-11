@@ -22,14 +22,11 @@ https://pokeapi.co/api/v2/
 ![Pokeapi](https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png)
 
 
-
-
-
 ### Things Used
 
-We have used UseState, UseRef, UseEffect, axios
+Used UseState, UseEffect, axios.
 
-Moreover we use uuid for making random unique id's so that the todos stay unique.
+Moreover name of the pokemon will be our unique id's as they won't be any pokemons with the same name.
 
 (https://youtu.be/o3ZUc7zH8BE)
 
