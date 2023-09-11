@@ -11,7 +11,7 @@ In the project, we have:
 1. List of the pokemons (names of pokemons)
 2. Pagination (to go to the next and previous pages)
 
-![App](https://github.com/saideep2000/pokemon_app/blob/main/src/app.png)
+![App](https://github.com/saideep2000/pokemon_app/blob/main/src/assets/app.png)
 
 **Note: this is just a website made for `practice`, towards REACT!**
 
