@@ -8,24 +8,21 @@ In the project, we have:
 
 ### `Features`
 
-1. We will take todos with the text input and a button to get it registered.\
-2. When ever the task is done we can click on the radio button as completed.
-3. There is a button to remove the todo which are done.
-4. There is a live count which tells us the todo left to be completed.
-5. Our website will keep track of all the todos we registered, we will can reload to check wheather it's storing in the local_storage or not.
+1. List of the pokemons (names of pokemons)
+2. Pagination (to go to the next and previous pages)
 
 **Note: this is just a website made as a `practice`, towards REACT!**
 
 ## Api Used:
 
-https://pokeapi.co/
+https://pokeapi.co/api/v2/
 
 ![Pokeapi](https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png)
 
 
 ### Things Used
 
-We have used UseState, UseRef, UseEffect
+We have used UseState, UseRef, UseEffect, axios
 
 Moreover we use uuid for making random unique id's so that the todos stay unique.
 
