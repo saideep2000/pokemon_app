@@ -13,7 +13,7 @@ In the project, we have:
 
 ![App](https://github.com/saideep2000/pokemon_app/blob/main/src/app.png)
 
-**Note: this is just a website made as a `practice`, towards REACT!**
+**Note: this is just a website made for `practice`, towards REACT!**
 
 ## Api Used:
 
