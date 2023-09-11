@@ -11,6 +11,8 @@ In the project, we have:
 1. List of the pokemons (names of pokemons)
 2. Pagination (to go to the next and previous pages)
 
+![App](https://github.com/saideep2000/pokemon_app/blob/main/src/app.png)
+
 **Note: this is just a website made as a `practice`, towards REACT!**
 
 ## Api Used:
@@ -18,6 +20,9 @@ In the project, we have:
 https://pokeapi.co/api/v2/
 
 ![Pokeapi](https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png)
+
+
+
 
 
 ### Things Used
